@@ -1,0 +1,46 @@
+         89445 function calls in 0.198 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+    14348    0.043    0.000    0.107    0.000 tron.py:38(is_capturable)
+    17295    0.031    0.000    0.138    0.000 tron.py:45(<genexpr>)
+     3587    0.030    0.000    0.173    0.000 tron.py:44(capturable_neighbors_of)
+    13762    0.029    0.000    0.044    0.000 tron.py:35(is_empty)
+    14348    0.020    0.000    0.020    0.000 tron.py:29(contains)
+        6    0.016    0.003    0.194    0.032 tron.py:72(distances_from)
+    13765    0.015    0.000    0.015    0.000 tron.py:12(get_at)
+     3588    0.005    0.000    0.005    0.000 tron.py:55(neighbors_of)
+     3580    0.003    0.000    0.003    0.000 {method 'append' of 'collections.deque' objects}
+     3586    0.003    0.000    0.003    0.000 {method 'popleft' of 'collections.deque' objects}
+        2    0.002    0.001    0.003    0.001 tron.py:63(merge)
+     1194    0.001    0.000    0.001    0.000 tron.py:86(<lambda>)
+      322    0.000    0.000    0.000    0.000 tron.py:89(<genexpr>)
+        2    0.000    0.000    0.000    0.000 tron.py:88(<dictcomp>)
+        2    0.000    0.000    0.001    0.000 {built-in method sum}
+        2    0.000    0.000    0.198    0.099 tron.py:91(score_of)
+        1    0.000    0.000    0.198    0.198 {built-in method exec}
+        2    0.000    0.000    0.198    0.099 tron.py:96(play)
+        2    0.000    0.000    0.198    0.099 tron.py:84(number_of_dominated_capturable_positions)
+        4    0.000    0.000    0.000    0.000 tron.py:119(parse)
+        3    0.000    0.000    0.000    0.000 tron.py:15(set_at)
+        1    0.000    0.000    0.198    0.198 <string>:1(<module>)
+        4    0.000    0.000    0.000    0.000 <string>:12(__new__)
+        4    0.000    0.000    0.000    0.000 tron.py:102(<genexpr>)
+        6    0.000    0.000    0.130    0.022 tron.py:85(<genexpr>)
+        1    0.000    0.000    0.000    0.000 tron.py:10(<listcomp>)
+        4    0.000    0.000    0.000    0.000 {method 'split' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 tron.py:9(make_grid)
+        1    0.000    0.000    0.000    0.000 tron.py:58(relative_direction)
+        4    0.000    0.000    0.000    0.000 {built-in method __new__ of type object at 0x000000001E34EF70}
+        5    0.000    0.000    0.000    0.000 {built-in method next}
+        1    0.000    0.000    0.198    0.198 tron.py:112(<dictcomp>)
+        4    0.000    0.000    0.000    0.000 {method 'items' of 'dict' objects}
+        2    0.000    0.000    0.000    0.000 {method 'values' of 'dict' objects}
+        2    0.000    0.000    0.000    0.000 {built-in method len}
+        1    0.000    0.000    0.000    0.000 {built-in method max}
+        1    0.000    0.000    0.000    0.000 {method 'index' of 'tuple' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        1    0.000    0.000    0.000    0.000 {built-in method iter}
+
+
