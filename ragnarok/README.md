@@ -1,9 +1,16 @@
-My contribution to the [CodinGame](http://www.codingame.com) 
-[Ragnarok Challenge](http://www.codingame.com/cg/#!challenge:23) that ran on 
-2014-02-22. I ended up 
-[#58](http://www.codingame.com/cg/#!ranking:23:MercuryWood) with a score of 
-90%.
+# CodinGame - Ragnarök
 
-`ragnarok.py` contains the code that I submitted to CodinGame on the day of
-the contest. `ragnarok2.py` contains cleaner code that uses a very
-similar algorithm. Both algorithms are written as pseudo-code at the top of the files. 
+- Date: 2014-02-22
+- Score: 90%
+- Global Ranking: #60
+- Ranking by Language (Python 3): #4
+
+## Power of Thor
+
+Score: 100%
+
+## Thor vs Giants
+
+Score: 80%
+
+`thor_vs_giants_original.py` contains the original submitted test. `thor_vs_giants.py` contains cleaner code that uses a very similar algorithm. The second algorithm is simpler but is out-performed but the first when the giants are all aligned. Both algorithms are written as pseudo-code at the top of the files.
