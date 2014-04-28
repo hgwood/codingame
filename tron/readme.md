@@ -1,20 +1,20 @@
-My contribution to the [CodinGame](http://www.codingame.com) 
-[Tron Battle](http://www.codingame.com/cg/#!challenge:20) 
-that ran from 2014-10-01 to 2014-02-28. I ended up #54.
+# CodinGame - Tron Battle
+
+Date: from 2014-10-01 to 2014-02-28
+Ranking: #54
 
 This piece of Python code is an AI for the Tron game. Given the number of players and their current positions on each
 turn, it prints out the direction in which it thinks it's best to head to: either left, right, up or down. It considers
 a position to be better than another if it allows the player on it to reach more remote positions than its opponents.
 Performance was significant since the code had give an answer every 100ms at the least.
 
-
-How it could be better:
+## Potential Improvements
 
 - warrior: seek for occasions to corner and eliminate an opponent
 - psychic: compute several moves in advance
 
 
-Interesting bits about the code:
+## Interesting Bits
 
 - Functional-style, even though it's in Python: no classes, one named tuple.
 - The grid (the game board) is a fully persistent data structure:
