@@ -1,4 +1,4 @@
-# CodinGame - Shadow of the Knight
+# CodinGame - Shadows of the Knight
 
 - Date: 2014-06-28
 - Score: 88%
