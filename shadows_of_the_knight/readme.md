@@ -12,3 +12,5 @@ Score: 100%
 ## Hostage Rescue - Part 2
 
 Score: 75%
+
+The last two tests fail because of the code's aweful performance.
