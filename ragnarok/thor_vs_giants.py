@@ -2,7 +2,7 @@
 #
 # if enough giants in range or no safe positions to go to (including current)
 #   strike
-# else 
+# else
 #   move to the safe position that's closest to the centroid of the giants
 
 from itertools import product
